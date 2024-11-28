@@ -5,7 +5,6 @@ const array2 = ['apple', 'banana', 'cherry'];
 // console.log(array[3]);
 // console.log(array2[2]);
 // array length property
-// console.log(array.length);
 // console.log(array2.length);
 
 // push() or pop()
